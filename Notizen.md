@@ -1,7 +1,7 @@
 # Notizen
  
 
-## Kabel:
+* Kabel
   * Gelb
   * Grün
   * Blau
