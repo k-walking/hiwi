@@ -1,8 +1,10 @@
- # Notizen
-  
- ## Kabel:
-     - Gelb
-     - Rot
-     - Grün
-     - Blau
-     - Orange
+# Notizen
+ 
+
+* Kabel:
+  * Gelb
+  * Grün
+  * Blau
+  * Rot
+  * Orange
+   
